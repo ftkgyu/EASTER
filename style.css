@@ -1,0 +1,31 @@
+.ul-second{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0 auto;
+    gap: 100px;
+    padding-top: 100px;
+}
+.li-first{
+    list-style: none;
+    font-size: 30px;
+}
+.ul-first{
+    display: flex;
+    justify-content: space-around;
+}
+header{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+li{
+    font-size: 20px;
+    list-style: none;
+}
+.ul-third{
+    
+}
